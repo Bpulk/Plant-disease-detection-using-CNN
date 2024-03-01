@@ -1,4 +1,4 @@
-# Potato Plant Disease Detection using CNN and Deep Learning
+# Potato Plant Disease Detection using CNN
 
 ## Overview
 
